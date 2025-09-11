@@ -20,7 +20,7 @@ The repo is structured by **topics** and **problem-solving patterns**, making it
 
 ---
 
-## 📚 Topics Covered
+## 📚 Topics To Be Covered
 - Arrays  
 - Strings  
 - Linked List  
@@ -34,7 +34,7 @@ The repo is structured by **topics** and **problem-solving patterns**, making it
 
 ---
 
-## 🔑 Patterns Covered
+## 🔑 Patterns To Be Covered
 - Sliding Window  
 - Two Pointers  
 - Binary Search  
@@ -53,5 +53,4 @@ The repo is structured by **topics** and **problem-solving patterns**, making it
 | **Total**            | **34** | **60+** |
 
 ## 📌 Note
-This is a **personal learning project** and also serves as a **public portfolio** to showcase my consistency in problem-solving and interview preparation.  
-Feel free to explore and use it for your own learning! 🚀  
+This is a **personal learning project** and also serves as a **public portfolio** to showcase my consistency in problem-solving and interview preparation.
